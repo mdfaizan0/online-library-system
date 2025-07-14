@@ -9,12 +9,12 @@ This is a simple React-based online library application.
 - ➕ Add a new book with proper form validation
 - 📘 View detailed information about each book
 - ❌ Error page for invalid routes
-- 🌐 Overview section powered by Google Books API
+- 🌐 Overview section powered by [Google Books API](https://developers.google.com/books/docs/v1/getting_started)
 - 🎨 Fully responsive and styled with custom CSS
 
 ## ⚙️ Tech Stack
 
-- React
+- [React](https://react.dev/)
 - [React Router DOM](https://reactrouter.com/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - Toast Notifications ([react-hot-toast](https://react-hot-toast.com/))
