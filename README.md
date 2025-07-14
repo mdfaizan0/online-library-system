@@ -19,6 +19,10 @@ This is a simple React-based online library application.
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - Toast Notifications ([react-hot-toast](https://react-hot-toast.com/))
 
+## 💻 Live Demo
+
+[Click here](https://online-lib-sys.netlify.app/) to view a live demo of **Online Library System**. 
+
 ## 🔥 How to run:
 
 #### Clone the project:
